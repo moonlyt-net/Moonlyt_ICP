@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Clinton-Semi";
+  src: url("./font/Clinton-semibold.woff");
+}
+
+@font-face {
+  font-family: "Clinton-Bold";
+  src: url("./font/ClintonBold.woff");
+}
