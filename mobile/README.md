@@ -20,8 +20,7 @@ To get a local copy up and running, follow these simple steps.
 
 2. Navigate to the project directory
     ```
-    cd webtoon-app
-    Install the required dependencies
+    cd mobile
     ```
 
 3. Install the required dependencies
